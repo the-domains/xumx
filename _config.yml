@@ -1,0 +1,23 @@
+name: xumx
+favicon: null
+layout_spectrum: 0.7971419531386346
+typography_spectrum: 0.14844358596019447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9236851197201759
+  lightness: 0.8477415023371577
+  saturation: 0.35754941450431943
+  rhythmicContrast: 0.10806795069947839
+purpose: []
